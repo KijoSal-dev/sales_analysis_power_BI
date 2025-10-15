@@ -67,11 +67,14 @@ This Power BI report provides a comprehensive analysis of product performance, p
 
 ---
 
+
 ## 📈 Dashboard Preview
-*(Optional: Add a screenshot or link to the published Power BI report here)*
+![Dashboard Preview](summary_notes.png)
+![Dashboard Preview](KPI.png)
+![Dashboard Preview](dashboard.png)
+
 
 ---
 
-**Author:** _[Your Name]_  
-**Version:** 1.0  
-**License:** MIT (if applicable)
+**Author:** Salome Kungu
+
