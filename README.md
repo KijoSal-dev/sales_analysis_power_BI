@@ -6,13 +6,32 @@
 This Power BI report provides a comprehensive analysis of product performance, profitability, and sales trends across regions, segments, and discount bands. The insights are designed to support data-driven decisions in sales strategy, pricing, and market focus.
 
 ---
+## Problem Statement
+Analyze product performance, profitability, and sales trends to identify key business drivers and support data-driven sales strategy decisions.
+
+## Approach
+- Analyzed sales data across multiple dimensions: products, regions, customer segments, and discount levels
+- Tracked profit trends over time (monthly tracking)
+- Examined distribution patterns across discount bands and countries
+
+## Tools Used
+- Microsoft Power BI Desktop – for data visualization and dashboard creation
+- Company sales database – containing sales, profit, and discount records
+  
+## Key Lessons / Findings
+1. Top Product: Paseo leads with $4.8M profit—products are strong profit drivers
+2. Segment Success: Government and Small Business segments are most profitable
+3. Discount Insight: Medium and high discounts drive sales volume without reducing profits
+4. Geographic Strength: U.S. and Canada dominate revenue
+5. Growth Trend: Consistent monthly profit growth shows improving sales execution
+6. Profit Distribution: Profits are well-balanced across all discount levels
 
 ## 🏆 Top Insights
 
 ### **1. Top Performing Product**
 - **Paseo** generated the highest profit of **$4.8M**, followed by **VTT** and **Amarilla**.
 - These products are key drivers of overall profitability.
-
+- 
 ### **2. Profit by Segment**
 - The **Government** and **Small Business** segments contributed the largest share of total profit.
 - This indicates strong performance among **institutional and SME clients**.
@@ -39,13 +58,10 @@ This Power BI report provides a comprehensive analysis of product performance, p
 
 1. **Regional Focus:**  
    Concentrate marketing and distribution efforts in **high-performing regions** (U.S. & Canada).
-
 2. **Discount Strategy:**  
    Maintain **competitive discount policies** that balance **profitability and sales volume**.
-
 3. **Segment Engagement:**  
    Strengthen **relationships with government and SME clients** to sustain top-segment performance.
-
 4. **Performance Monitoring:**  
    Track **monthly profit trends** to improve **forecasting and resource allocation**.
 
