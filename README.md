@@ -3,7 +3,7 @@
 
 ## 📊 Overview
 This Power BI report provides a comprehensive analysis of product performance, profitability, and sales trends across regions, segments, and discount bands. The insights are designed to support data-driven decisions in sales strategy, pricing, and market focus.
----
+
 ## Problem Statement
 Analyze product performance, profitability, and sales trends to identify key business drivers and support data-driven sales strategy decisions.
 
